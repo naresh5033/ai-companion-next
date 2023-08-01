@@ -128,3 +128,8 @@ Running commands with npm `npm run [command]`
 | command         | description                              |
 | :-------------- | :--------------------------------------- |
 | `dev`           | Starts a development instance of the app |
+
+
+### Deployment 
+
+- the app is deployed in the versel and [deployed url is here](https://ai-companion-seven.vercel.app)
